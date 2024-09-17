@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @DevvObiero
+    👽  DevvObiero  👽 
+
+**`Digital Craftsman(Developer/Creator)`**
+
 - 👀 I’m interested in becoming a full stack Software engineer and contributing to making the world a better place through lines of code
 - 🌱 I’m currently learning HTML and CSS and JavaScript
 - 💞️ I’m looking to collaborate on different open source projects to help out and get experience 
