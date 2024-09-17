@@ -2,12 +2,8 @@
 
 **`Digital Craftsman(Developer/Creator)`**
 
-- 👀 I’m interested in becoming a full stack Software engineer and contributing to making the world a better place through lines of code
-- 🌱 I’m currently learning HTML and CSS and JavaScript
-- 💞️ I’m looking to collaborate on different open source projects to help out and get experience 
-- 📫 How to reach me ..obieropauldev@gmail.com
-- 😄 Pronouns: ...HEEEE?HIM
-- ⚡ Fun fact: ...I want to revive my mother's old business and surprise her
+Hi there! I’m  Paul Obiero, a driven web developer on an exciting journey through JavaScript and the intriguing world of data structures and algorithms. While I’m focused on coding projects and recovering from a recent accident, I’m passionate about crafting dynamic web experiences and solving coding challenges. Outside of coding, you might catch me strategizing over a game of chess or dreaming up my next innovative project. Dive into my work and let’s connect to build something amazing together!
+
 
 <!---
 DevvObiero/DevvObiero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
