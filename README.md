@@ -37,6 +37,11 @@ You can click the Preview link to take a look at your changes.
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
 
+
+
+![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+
 <p align="center">
   <a href="https://github.com/DevvObiero" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linked in" width="50" height="50"/>
@@ -57,3 +62,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="TikTok" width="50" height="50"/>
   </a>
 </p>
+
+![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
