@@ -28,4 +28,10 @@ You can click the Preview link to take a look at your changes.
 --->
 🕑︎ Time Zone: Africa/Nairobi
 
+
+
+![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+
+
 ![Obiero's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
