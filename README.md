@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY2Mzc5NTcsIm5iZiI6MTcyNjYzNzY1NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE4VDA1MzQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkZDI1NjFhNjBiODJjMjhjNzBjMmM3ZDJlNjJhZThkOTE4NzlmOTk1NjZmMThiYmJhM2QzZDcwZGRhZGYwOTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Z83v4FB006zVxJ9Xm-VmxponqOEVU3myzsFEzLnSFhk" alt="Twitter" width="60" height="50"/>
   </a>
-   <a href="https://www.tiktok.com/@yourusername" target="_blank">
+   <a href="mailto:paulonyangoobiero@outlook.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="TikTok" width="50" height="50"/>
   </a>
 </p>
