@@ -14,7 +14,7 @@ Hi there! I’m  Paul Obiero, a driven web developer on an exciting journey thro
 
 
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: center; text-align: center;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass" width="50" height="50"/>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JS" width="50" height="50"/>
     <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" width="50" height="50"/>
