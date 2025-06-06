@@ -24,6 +24,8 @@ Eat. Code. Fix bugs. Cry a little. Rethink my life. Google the error. Solve it. 
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="React" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="firebase" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Webpack-Dark.svg" alt="React" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50" height="50"/>
    
  
