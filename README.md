@@ -30,7 +30,6 @@ Eat. Code. Fix bugs. Cry a little. Rethink my life. Google the error. Solve it. 
  
   </div>
 </p>
-https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ThreeJS-Dark.svg
 
 <!---
 DevvObiero/DevvObiero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
