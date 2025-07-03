@@ -12,9 +12,8 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="React" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Webpack-Dark.svg" alt="React" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50" height="50"/>
-   
+   ![DevvObiero's Stats](https://github-readme-stats.vercel.app/api?username=DevvObiero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
  
   </div>
 </p>
 
-https://github-readme-stats.vercel.app/api?username=DevvObiero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
