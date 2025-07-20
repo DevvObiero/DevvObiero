@@ -12,5 +12,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50" height="50"/>
 </p>
 <p align="center">
+<!--   stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=DevvObiero&theme=dark&hide_border=true&count_private=true" alt="DevvObiero's GitHub Stats" />
 </p>
