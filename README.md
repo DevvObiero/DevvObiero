@@ -1,4 +1,12 @@
+  <p align="center">
+  <b>Hi, I'm Paul Obiero — a frontend developer who builds with purpose.</b><br/>
+  I’m focused on shipping clean, fast web apps that solve real problems. <br/>
+  Currently working on projects like <i>GitMentor</i> and <i>Accountable</i> to help developers grow and stay consistent.<br/>
+  Always learning, always building.
+</p>
+
 <p align="center">
+
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" alt="Figma" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" width="50" height="50"/>
