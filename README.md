@@ -5,7 +5,7 @@
   Always learning, always building.
 </p>
 
-<p align="center">
+<p align="start">
 
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" alt="Figma" width="50" height="50"/>
