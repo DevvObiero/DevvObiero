@@ -22,4 +22,5 @@
 <p align="start">
 <!--   stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=DevvObiero&theme=dark&hide_border=true&count_private=true" alt="DevvObiero's GitHub Stats" />
+  ![DevvObiero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevvObiero&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </p>
