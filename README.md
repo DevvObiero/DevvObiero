@@ -1,5 +1,5 @@
   <p align="start">
-  <b>Hi, I'm Paul Obiero ,,a frontend developer who builds with purpose.</b><br/>
+  <b>Hi!! I'm Paul Obiero ,a frontend developer who builds with purpose.</b><br/>
   I’m focused on shipping clean, fast web apps that solve real problems. <br/>
   Currently working on projects like <i>GitMentor</i> and <i>Accountable</i> to help developers grow and stay consistent.<br/>
   Always learning, always building.Let's do this!!
