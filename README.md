@@ -1,8 +1,8 @@
-  <p align="start">
-  <b>Hi!! I'm Paul Obiero ,a frontend developer who builds with purpose.</b><br/>
-  I’m focused on shipping clean, fast web apps that solve real problems. <br/>
-  Currently working on projects like <i>GitMentor</i> and <i>Accountable</i> to help developers grow and stay consistent.<br/>
-  Always learning, always building.Let's do this!!
+<p align="start">
+  <b>Hi!! I'm Paul Obiero, a frontend developer building for the love of the game.</b><br/>
+  Currently freelancing on a website for a tech consultancy while sharpening my DSA and interview skills.<br/>
+  Recent project: <i>Accountable</i> (habit tracking app that keeps you consistent).<br/>
+  Grinding, learning, and hunting for my next internship opportunity. Let's build!
 </p>
 
 <p align="start">
