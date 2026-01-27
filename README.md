@@ -1,8 +1,8 @@
 <p align="start">
   <b>Hi!! I'm Paul Obiero, a frontend developer building for the love of the game.</b><br/>
-  Currently freelancing on a website for a tech consultancy while sharpening my DSA and interview skills.<br/>
+  Currently working in frontend development and continuing to sharpen my skills in DSA and modern web technologies.<br/>
   Recent project: <i>Accountable</i> (habit tracking app that keeps you consistent).<br/>
-  Grinding, learning, and hunting for my next internship opportunity. Let's build!
+  Always learning, always building. Open to connecting and collaborating!
 </p>
 
 <p align="start">
