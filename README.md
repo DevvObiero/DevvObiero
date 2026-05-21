@@ -29,6 +29,7 @@
 
 ## 📊 GitHub Stats
 <p align="left">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DevvObiero?cardType=level&theme=dark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
   <img src="https://github-readme-stats.vercel.app/api?username=DevvObiero&theme=dark&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvObiero&theme=dark&hide_border=true&layout=compact" height="170"/>
 </p>
