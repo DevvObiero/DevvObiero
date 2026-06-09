@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=42dot%20Sans&preferLogin=false">    <img  alt="DevvObiero's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DevvObiero?cardType=level&theme=dark&fontFamily=42dot%20Sans&preferLogin=false" />  </a>
+  <!-- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=42dot%20Sans&preferLogin=false">    <img  alt="DevvObiero's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DevvObiero?cardType=level&theme=dark&fontFamily=42dot%20Sans&preferLogin=false" />  </a> -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=DevvObiero&theme=dark&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvObiero&theme=dark&hide_border=true&layout=compact" height="170"/>
